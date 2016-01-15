@@ -1,10 +1,10 @@
 {
   "name": "pdfmake",
-    "homepage": "https://github.com/tuckerjt07/pdfmake.git#master",
+  "homepage": "https://bpampuch.github.io/pdfmake",
   "authors": [
-    "Jacob Tucker <tuckerjt07@gmail.com>"
+    "Bartek Pampuch <bartosz.pampuch@gmail.com>"
   ],
-  "description": "Client/server side PDF printer/displayer in pure JavaScript",
+  "description": "Client/server side PDF printing in pure JavaScript",
   "main": ["build/pdfmake.js", "build/vfs_fonts.js"],
   "moduleType": [
     "globals"
